@@ -19,7 +19,7 @@ function SideBar() {
         <FaTwitter color="white" />
       </div>
 
-      <div className="space-y-2.5 mt-2 mb-2.5 xl:ml-24 lg:ml-24">
+      <div className="space-y-1 mt-2 mb-2.5 xl:ml-24 lg:ml-24">
         <SidebarLink text="Home" Icon={FaHome} active />
         <SidebarLink text="Explore" Icon={FaHashtag} />
         <SidebarLink text="Notifications" Icon={FaRegBell} />
